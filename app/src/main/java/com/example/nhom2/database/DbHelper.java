@@ -6,7 +6,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 
 public class DbHelper extends SQLiteOpenHelper {
 
-    private static final String DB_NAME = "group10.db";
+    private static final String DB_NAME = "group2.db";
     private static final int DB_VERSION = 2;
 
     private static final String CREATE_TABLE_USERS = "CREATE TABLE users (" +
